@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "Rendiciones de gastos",
+  "short_name": "Rendiciones",
+  "description": "Aplicación para generar rendiciones de gastos.",
+  "lang": "es-CL",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fa",
+  "theme_color": "#14263d",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
